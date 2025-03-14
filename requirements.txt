@@ -1,4 +1,5 @@
 ipykernel
+tensorflow==2.15.0
 numpy
 pandas
 matplotlib
@@ -7,5 +8,4 @@ memory_profiler
 streamlit
 scikit-learn 
 nltk
-tensorflow==2.15.0
 tensorboard
